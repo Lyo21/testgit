@@ -1,0 +1,8 @@
+--cek git version--
+git --version
+
+--inisialisasi git pertama kali--
+git config --global user.name "Lingga Prasetyo"
+
+--melihat perubahan--
+git log
